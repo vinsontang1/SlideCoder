@@ -1,5 +1,6 @@
-# SlideCoder
-The code in "SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design"
+
+![Logo](title.png)
+
 ## 🚧 Coming Soon
 
 The code will be published after the paper is accepted.
